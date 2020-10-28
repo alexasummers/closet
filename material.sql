@@ -1,0 +1,4 @@
+CREATE TABLE Material
+(materialID INT AUTO_INCREMENT NOT NULL PRIMARY KEY,
+Material VARCHAR (255),
+Washable VARCHAR (5));
