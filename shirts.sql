@@ -11,5 +11,8 @@
 -- INSERT INTO Shirts (shirtDescription, shirtColor, shirtFit, shirtDateOfWear) VALUES
 -- ('JayHacks', 'Gray', 'Mid', '2020/10/26');
 
-SELECT *
-FROM Shirts
+
+-- SELECT *
+-- FROM Shirts
+
+-- USE closet;
