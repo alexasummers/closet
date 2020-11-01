@@ -11,7 +11,7 @@ PRIMARY KEY (shirtID)) ENGINE=INNODB;
 
 INSERT INTO Shirts (shirtDescription, shirtColor, shirtFit, shirtDateOfWear) VALUES
 ('Tanktop', 7, 'Fitted', '2020/10/27'),
-('Knit Sweater', 13, 'Large', '2020/10/28');
+('Knit Sweater', 13, 'Large', '2020/10/28'),
 ('Tanktop', 7, 'Fitted', '2020/10/31');
 
 -- ALTER TABLE Shirts
